@@ -1,0 +1,9 @@
+abcd=10
+print(abcd)
+print(type(abcd))
+a="amal"
+print(type(a))
+ab=3.3
+print(type(ab))
+ab=4+4j
+print(type(ab))
